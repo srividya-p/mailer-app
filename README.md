@@ -15,5 +15,5 @@ The objective of this simple CLI app is to-
 2. >node index.js
 3. >node app.js
 
-![picture alt](http://via.placeholder.com/200x150)
+![picture alt](file:///home/pika/Desktop/Screenshot%20from%202020-10-24%2021-28-23.png)
 
