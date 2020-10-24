@@ -18,3 +18,6 @@ The objective of this simple CLI app is to-
 ## Output ##
 
 ![Screenshot from 2020-10-24 21-28-23](https://user-images.githubusercontent.com/61420642/97087592-dc098580-1648-11eb-9b2a-be85ae1f2bfa.png)
+
+![Screenshot from 2020-10-24 21-19-21](https://user-images.githubusercontent.com/61420642/97087666-4a4e4800-1649-11eb-8883-23142af2f7e4.png)
+
