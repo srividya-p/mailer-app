@@ -15,4 +15,6 @@ The objective of this simple CLI app is to-
 2. >node index.js
 3. >node app.js
 
+![Screenshot from 2020-10-24 21-28-23](https://user-images.githubusercontent.com/61420642/97087592-dc098580-1648-11eb-9b2a-be85ae1f2bfa.png)
+
 
