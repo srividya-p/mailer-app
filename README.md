@@ -4,7 +4,7 @@ The objective of this simple CLI app is to-
 - Store the obtained credentials in a file.
 - Have an API endpoint to execute sending an email using the credentials previously stored.
 
-# Modules used
+## Modules used ##
 - googleapis
 - nodemailer
 - fs
