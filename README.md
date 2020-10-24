@@ -10,3 +10,8 @@ The objective of this simple CLI app is to-
 - fs
 - readline
 
+## Commands ##
+> npm install
+> node index.js
+> node app.js
+
