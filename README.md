@@ -11,7 +11,7 @@ The objective of this simple CLI app is to-
 - readline
 
 ## Commands ##
-> npm install
-> node index.js
-> node app.js
+$ npm install
+$ node index.js
+$ node app.js
 
