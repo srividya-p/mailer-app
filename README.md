@@ -15,3 +15,5 @@ The objective of this simple CLI app is to-
 2. >node index.js
 3. >node app.js
 
+![picture alt](http://via.placeholder.com/200x150)
+
